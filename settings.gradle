@@ -1,0 +1,2 @@
+rootProject.name = "Kotlin_Widget_ListView"
+include ':app'
